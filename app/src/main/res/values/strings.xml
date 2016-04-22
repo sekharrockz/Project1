@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="list_fragment_example">List Fragment Example</string>
+    <string name="dialog_fragment_example">Dialog Fragment Example</string>
+    <string name="preference_fragment_example">Preference Fragment Example</string>
+    <string name="vanilla_fragment_example">Vanilla Fragment Example</string>
+
+    <string name="array_adapter_example">Array Adapter Example</string>
+    <string name="simple_adapter_example">Simple Adapter Example</string>
+    <string name="base_adapter_example">Base Adapter Example</string>
+    <string name="list_adapter_example">List Activity Example</string>
+    <string name="spinner_example">Spinner Example</string>
+    <string name="recycler_view_adapter_example">Recycler Adapter Example</string>
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="my_books">
+        <item>Scala Cookbook</item>
+        <item>Play Framework Recipes</item>
+        <item>How I Sold My Business: A Personal Diary</item>
+        <item>A Survival Guide for New Consultants</item>
+    </string-array>
+
+</resources>
